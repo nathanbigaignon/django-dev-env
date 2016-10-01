@@ -11,6 +11,8 @@ This project works on all system supported by Docker (Linux/Unix, Windows, OSX).
 
 Here's the few steps you need to follow to set the things up!
 
+*  Install  Docker and Docker Compose following the official documentation.
+
 *  Add your project folder in the root of this repository so the arborescence looks something like this:
 
         django_dev_env/
