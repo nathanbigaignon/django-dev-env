@@ -15,7 +15,7 @@ Here's the few steps you need to follow to set the things up!
 
 *  Add your project folder in the root of this repository so the arborescence looks something like this:
 
-        django_dev_env/
+        django-dev-env/
                 Dockerfile
                 docker-compose.yml
                 requirements/
